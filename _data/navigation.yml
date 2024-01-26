@@ -1,16 +1,20 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/  
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
-  
-  - title: "Service"
-    url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+   - title: "Service" #talks
+     url: /talks/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "News"
-    url: /year-archive/
+     url: /year-archive/
+    
+  - title: "CV"
+    url: http://jessecu2024.github.io/files/CV_JieXu.pdf
+        
