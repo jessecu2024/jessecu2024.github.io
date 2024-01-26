@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Xu / Innovative Research in Computer Science"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Jie Xu"
-description              : &description "Final-year Ph.D. candidate at City University of Hong Kong specializing in cybersecurity, blockchain security, and Trustworthy AI. Passionate about turning complex theories into practical solutions."
-url                      : https://jiexu.github.io # the base hostname & protocol for your site
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jessecu2024/jessecu2024.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Xu"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at City University of Hong Kong, focusing on cybersecurity, blockchain security, and Trustworthy AI.  "
-  location         : "Hong Kong"
-  email            : jiexu49-c@my.cityu.edu.hk
-  github           : "jessecu2024"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=4c5XkFIAAAAJ"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
