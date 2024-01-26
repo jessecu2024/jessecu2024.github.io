@@ -9,11 +9,11 @@ main:
    - title: "Service" #talks
      url: /talks/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+   - title: "News"
+     url: /portfolio/
         
-  - title: "News"
-     url: /year-archive/
+  #- title: "News"
+     #url: /year-archive/
     
   - title: "CV"
     url: http://jessecu2024.github.io/files/CV_JieXu.pdf
