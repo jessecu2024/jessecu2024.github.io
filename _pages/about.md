@@ -18,8 +18,29 @@ My research interests have always been anchored in ensuring security and reliabi
 
 📖 Education
 ======
-1.  
-1.  
+## Education ![Academic Cap](https://example.com/academic-cap-icon.png)
+
+### City University of Hong Kong (CityU)
+**Ph.D. in Computer Science**  
+_Sep. 2020 - Aug. 2024 (expected)_  
+*Recipient of the Presidential PhD Scholarship*  
+**Supervisor:** Prof. Xiaohua Jia  
+![Academic Cap](https://example.com/academic-cap-icon.png)
+
+### University of Science and Technology of China (USTC)
+**Master of Engineering in Electronics and Communication Engineering**  
+_Sep. 2017 - Jul. 2020_  
+*Graduated with Honors*  
+**Supervisors:** Prof. Peiling Hong and Prof. Kaiping Xue  
+![Academic Cap](https://example.com/academic-cap-icon.png)
+
+### University of Science and Technology of China (USTC)
+**Bachelor of Engineering in Information Security**  
+**Bachelor of Literature in Communication (Dual Degree)**  
+_Sep. 2013 - Jul. 2017_  
+*Graduated with Honors*  
+![Academic Cap](https://example.com/academic-cap-icon.png)
+
 
 ⭐ News
 ------
