@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at City University of Hong Kong, supervised by Prof. Xiaohua Jia.  My academic interests have always been anchored in ensuring security and reliability, whether in cybersecurity, blockchain consensus, or AI.  I strive to translate technical advancements into real-world applications that enhance everyday life. This commitment not only showcases my depth in technology but also reflects my innovative approach in tackling emerging and complex issues. Driven by a core belief in creating technology that serves people, my work represents a blend of deep expertise, practical application, and a pursuit of new frontiers in technology..
+I am a final-year Ph.D. candidate at the Department of Computer Science, City University of Hong Kong. I am supervised by Prof. Xiaohua Jia.  
+
+My research interests have always been anchored in ensuring security and reliability, whether in AI, distributed system and blockchain, or cybersecurity.  I strive to translate technical advancements into real-world applications that enhance everyday life. This commitment not only showcases my depth in technology but also reflects my innovative approach in tackling emerging and complex issues. Driven by a core belief in creating technology that serves people, my work represents a blend of deep expertise, practical application, and a pursuit of new frontiers in technology.
 
 ❤️  My passion 
 ======
