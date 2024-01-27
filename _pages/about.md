@@ -20,19 +20,20 @@ My research interests have always been anchored in ensuring security and reliabi
 
 📖 Education
 ======
-** City University of Hong Kong (CityU) ** _Sep. 2020 - Aug. 2024 (expected)_  
-Ph.D. in Computer Science**  *Recipient of the Presidential PhD Scholarship*  
-Supervisor:Prof. Xiaohua Jia  
+## **City University of Hong Kong (CityU)** _Sep. 2020 - Aug. 2024 (expected)_
+_Ph.D. in Computer Science_  
+Recipient of the Presidential PhD Scholarship  
+Supervisor: Prof. Xiaohua Jia  
+
+## **University of Science and Technology of China (USTC)** _Sep. 2017 - Jul. 2020_
+_Master of Engineering in Electronics and Communication Engineering (Graduated with Honors)_   
+Supervisors: Prof. Kaiping Xue and Prof. Peiling Hong
+
+## **University of Science and Technology of China (USTC)** _Sep. 2013 - Jul. 2017_
+_Bachelor of Engineering in Information Security (Graduated with Honors)_   
+_Bachelor of Literature in Communication (Dual Degree)_  
 
 
-** University of Science and Technology of China (USTC)** _Sep. 2017 - Jul. 2020_  
-Master of Engineering in Electronics and Communication Engineering  *Graduated with Honors*  
-Supervisors: Prof. Peiling Hong and Prof. Kaiping Xue  
-
-
-University of Science and Technology of China (USTC) _Sep. 2013 - Jul. 2017_  
-Bachelor of Engineering in Information Security   *Graduated with Honors*  
-Bachelor of Literature in Communication (Dual Degree)  
 
 
 ⭐ News
