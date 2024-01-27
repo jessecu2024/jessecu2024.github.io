@@ -33,4 +33,5 @@ _Bachelor of Literature in Communication (Dual Degree)_
 ### 📢 News
 **On the Academic Job Market!**  
 
-I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information!
+I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
+
