@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year Ph.D. candidate at the Department of Computer Science, City University of Hong Kong. I am supervised by Prof. Xiaohua Jia.  
 
-❤️ My passion have always been anchored in ensuring security and reliability, whether in AI, distributed system and blockchain, or cybersecurity.  I strive to translate technical advancements into real-world applications that enhance everyday life. This commitment not only showcases my depth in technology but also reflects my innovative approach in tackling emerging and complex issues. Driven by a core belief in creating technology that serves people, my work represents a blend of deep expertise, practical application, and a pursuit of new frontiers in technology.
+❤️ My passion passion has always been centered around ensuring reliability and security, whether it's in the realms of AI, distributed systems, blockchain, or cybersecurity. I am dedicated to bridging the gap between technical advancements and their practical applications in our daily lives.
 
 ### ⭐ Research Interests
 - Large Model Learning and Unlearning
