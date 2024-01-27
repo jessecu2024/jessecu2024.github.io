@@ -14,27 +14,28 @@ I am a final-year Ph.D. candidate at the Department of Computer Science, City Un
 
 ❤️  Research Interests
 ======
-1. Large Model Learning and Unlearning
-2. Distributed System and Blockchain Consensus
-3. Network Security and Applied Cryptography
+- Large Model Learning and Unlearning
+- Distributed System and Blockchain Consensus
+- Network Security and Applied Cryptography
 
 🎓 Education
 ======
-#### **City University of Hong Kong (CityU)** _Sep. 2020 - Aug. 2024 (expected)_
+### **City University of Hong Kong (CityU)** _Sep. 2020 - Aug. 2024 (expected)_
 _Ph.D. in Computer Science(Recipient of the Presidential PhD Scholarship)_  
 Supervisor: [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/) 
 
-#### **University of Science and Technology of China (USTC)** _Sep. 2017 - Jul. 2020_
+### **University of Science and Technology of China (USTC)** _Sep. 2017 - Jul. 2020_
 _Master of Engineering in Electronics and Communication Engineering (Graduated with Honors)_   
 Supervisors: [Prof. Kaiping Xue](http://staff.ustc.edu.cn/~kpxue/) and Prof. Peiling Hong
 
-#### **University of Science and Technology of China (USTC)** _Sep. 2013 - Jul. 2017_
+### **University of Science and Technology of China (USTC)** _Sep. 2013 - Jul. 2017_
 _Bachelor of Engineering in Information Security (Graduated with Honors)_   
 _Bachelor of Literature in Communication (Dual Degree)_  
 
 
 📢 News
 ------
-**On the Academic Job Market!** I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information!
+**On the Academic Job Market!** 
+I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information!
  
  
