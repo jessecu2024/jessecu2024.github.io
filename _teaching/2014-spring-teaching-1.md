@@ -1,11 +1,11 @@
 ---
-title: "Teaching Experience at University of Science and Technology of Chin"
+title: "Teaching Assistant at University of Science and Technology of China"
 collection: teaching
 type: "Undergraduate Course"
-venue: "University of Science and Technology of China, School of Information Science and Technology"
+venue: "School of Information Science and Technology"
 location: "Hefei, China"
 ---
 
 - **Teaching Assistant**
-  - _Computer Networks_ (Information Science Faculty, Compulsory Course for Undergraduates, Junior Year)
-    - Role: Assisted in teaching key concepts and applications of computer networking to undergraduate students.
+  - _Computer Networks_ (Compulsory Course for Undergraduates)
+    - Role: Conducted tutorials focused on designing and implementing network communication protocols, capturing and analyzing network packets, and examining network traffic for informative insights.
