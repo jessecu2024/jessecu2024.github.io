@@ -1,6 +1,12 @@
-## Teaching Experience
-
-### City University of Hong Kong
+---
+title: "Teaching Experience at City University of Hong Kong"
+collection: teaching
+type: "Undergraduate and Graduate Courses"
+permalink: /teaching/cityu-hk
+venue: "City University of Hong Kong, Department of Computer Science"
+date: [Start Date]-[End Date]
+location: "Hong Kong, China"
+---
 
 - **Teaching Assistant**
   - _CS2312 Problem Solving and Programming_
@@ -13,9 +19,3 @@
     - Role: Assisted in advanced studies covering selected topics in computer science.
   - _CS8695 Research in Computer Science_ (Graduate Course)
     - Role: Supported graduate students in their research projects in various computer science domains.
-
-### University of Science and Technology of China
-
-- **Teaching Assistant**
-  - _Computer Networks_ (Information Science Faculty, Compulsory Course for Undergraduates, Junior Year)
-    - Role: Assisted in teaching key concepts and applications of computer networking to undergraduate students.
