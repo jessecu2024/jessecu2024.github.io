@@ -2,9 +2,7 @@
 title: "Teaching Experience at University of Science and Technology of Chin"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
 venue: "University of Science and Technology of China, School of Information Science and Technology"
-date: 2018-09-01
 location: "Hefei, China"
 ---
 
