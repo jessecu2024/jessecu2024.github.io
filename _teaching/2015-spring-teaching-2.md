@@ -1,10 +1,10 @@
 ---
-title: "Teaching Experience at City University of Hong Kong"
+title: "Teaching Assistant at City University of Hong Kong"
 collection: teaching
 type: "Undergraduate and Graduate Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "City University of Hong Kong, Department of Computer Science"
-date: 2020-09-01
+date: 2020-09-01 to 2024-04-30
 location: "Hong Kong"
 ---
 
