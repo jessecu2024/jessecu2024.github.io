@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Jie Xu"
 title_separator          : "-"
 name                     : &name "Jie Xu"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Jie Xu"
   avatar           : "profile.png"
   bio              : "CS Ph.D. Candidate"
-  location         : "Hong Kong"
+  location         : "Kowloon, Hong Kong"
   employer         :  
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=4c5XkFIAAAAJ"
