@@ -7,9 +7,9 @@ author_profile: true
 
 - **Teaching Assistant at City University of Hong Kong (CityU)**
   - _CS2312 Problem Solving and Programming_ (2023/24 Semester B)
-    - Role: Assisted students in structured software design and problem-solving using Java.
+    - Role: Assisted undergraduate students in structured software design and problem-solving using Java.
   - _CS1102 Introduction to Computer Studies_ (2020/21 Semester B)
-    - Role: Assisted in introducing Internet technologies and basic programming, focusing on software tools and web content scripting for students new to the field.
+    - Role: Assisted in introducing Internet technologies and basic programming, focusing on software tools and web content scripting.
   - _CS2204 Fundamentals of Internet Applications Development_ (2020/21 Semester A)
     - Role: Assisted in teaching web programming fundamentals, including XHTML, CSS, scripting, and client-side application development.
   - _CS8692 Comprehensive Studies in Selected Topics in CS_ (2021/22 Semester A & B)
