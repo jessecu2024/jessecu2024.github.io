@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jie Xu"
 title_separator          : "-"
-name                     : &name "Jie Xu"
+name                     : &name "Jie Xu's Homepage"
 description              : &description "personal description"
 url                      : https://jessecu2024.github.io  
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
