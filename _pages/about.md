@@ -13,8 +13,8 @@ I am a final-year Ph.D. candidate at the Department of Computer Science, City Un
 ❤️ My passion has always been centered around ensuring reliability and security in various fields such as AI, distributed systems, blockchain, and cybersecurity. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects. 
 
 ### ⭐ Research Interests
-- Large Model Learning and Unlearning
 - Distributed System and Blockchain Consensus
+- Large Model Learning and Unlearning
 - Network Security and Applied Cryptography
 
 ### 🎓 Education
