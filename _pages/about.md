@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jie Xu"
+title: "Jie Xu's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
