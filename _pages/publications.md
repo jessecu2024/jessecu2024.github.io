@@ -19,7 +19,7 @@ author_profile: true
 
 - **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput", *IEEE Transactions on Network Science and Engineering*. (Accepted)
 - 
-- **Jie Xu, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication," *IEEE Transactions on Parallel and Distributed Systems*, vol. 34, no. 6, pp. 1909-1922, 2023.
+- **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication," *IEEE Transactions on Parallel and Distributed Systems*, vol. 34, no. 6, pp. 1909-1922, 2023.
 
 - **Jie Xu**, Cong Wang and Xiaohua Jia**, "A Survey of Blockchain Consensus Protocols," *ACM Computing Surveys*, vol. 55, no. 13s, pp. 1-35, 2023.
 
