@@ -7,11 +7,7 @@ author_profile: true
 
 ## Submitted Papers
 
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "LMEraser: Large Model Unlearning through Adaptive Prompt Tuning", submitted to 2024 International Joint Conference on Artificial Intelligence (IJCAI’2024).
-
 - **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "Machine Unlearning: Solutions and Challenges", *IEEE Transactions on Emerging Topics in Computational Intelligence* (Minor) [arXiv](https://arxiv.org/abs/2308.07061).
-
-- Jianfei He, Shichao Sun, Sen Peng, **Jie Xu**, Xiaohua Jia, Wenjie Li, "Contrastive Preference Learning for Neural Machine Translation", *ACL ARR 2023*.
 
 ## Published Papers
 
