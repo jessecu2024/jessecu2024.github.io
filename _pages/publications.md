@@ -11,9 +11,9 @@ author_profile: true
 
 ## Published Papers
 
-- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*. (Accepted)
+- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*. [GitHub](https://github.com/myl7/xshard) (Accepted)
 
-- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput", *IEEE Transactions on Network Science and Engineering (TNSE)*. (Accepted)
+- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput", *IEEE Transactions on Network Science and Engineering (TNSE)*. [GitHub](https://github.com/senp98/PuffChain) (Accepted)
   
 - **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
 
