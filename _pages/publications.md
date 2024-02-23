@@ -7,9 +7,10 @@ author_profile: true
 
 ## Published Papers
 
-- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. [GitHub](https://github.com/myl7/xshard)  
+- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. [Code](https://github.com/myl7/xshard)  
 
-- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "[PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput](https://ieeexplore.ieee.org/abstract/document/10428055)", *IEEE Transactions on Network Science and Engineering (TNSE)*. [GitHub](https://github.com/senp98/PuffChain) (Accepted)
+- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "[PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput](https://ieeexplore.ieee.org/abstract/document/10428055)", *IEEE Transactions on Network Science and Engineering (TNSE)*. [Code
+  ](https://github.com/senp98/PuffChain) (Accepted)
   
 - **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "[AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556)," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
 
@@ -17,9 +18,9 @@ author_profile: true
 
 - **Jie Xu**, Yingying Cheng, Cong Wang and Xiaohua Jia, "[Occam: A Secure and Adaptive Scaling Protocol for Permissionless Blockchain](https://ieeexplore.ieee.org/abstract/document/9546407)," in *Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)*, July 7-10, 2021.
 
-- **Jie Xu**, Kaiping Xue, Hangyu Tian, Jianan Hong, David S.L. Wei, and Peilin Hong, "An Identity Management and Authentication Scheme Based on Redactable Blockchain for Mobile Networks," *IEEE Transactions on Vehicular Technology (TVT)*, vol. 69, no. 6, pp. 6688-6698, 2020.
+- **Jie Xu**, Kaiping Xue, Hangyu Tian, Jianan Hong, David S.L. Wei, and Peilin Hong, "[An Identity Management and Authentication Scheme Based on Redactable Blockchain for Mobile Networks](https://ieeexplore.ieee.org/abstract/document/9060994)," *IEEE Transactions on Vehicular Technology (TVT)*, vol. 69, no. 6, pp. 6688-6698, 2020.
 
-- **Jie Xu**, Kaiping Xue, Shaohua Li, Jianan Hong, Peilin Hong, and Nenghai Yu, "Healthchain: A Blockchain-based Privacy Preserving Scheme for Large-scale Health Data," *IEEE Internet of Things Journal*, vol. 6, no. 5, pp. 8770-8781, 2019. 🏆**Highly Cited Papers**
+- **Jie Xu**, Kaiping Xue, Shaohua Li, Jianan Hong, Peilin Hong, and Nenghai Yu, "[Healthchain: A Blockchain-based Privacy Preserving Scheme for Large-scale Health Data](https://ieeexplore.ieee.org/abstract/document/8738810)," *IEEE Internet of Things Journal*, vol. 6, no. 5, pp. 8770-8781, 2019. 🏆**Highly Cited Papers**
 
 - **Jie Xu**, Kaiping Xue, Qingyou Yang, and Peilin Hong, "PSAP: Pseudonym-based Secure Authentication Protocol for NFC Applications," *IEEE Transactions on Consumer Electronics*, vol. 64, no. 1, pp. 83-91, 2018.
 
