@@ -7,10 +7,10 @@ author_profile: true
 
 ## Published Papers
 
-- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. [Code](https://github.com/myl7/xshard)  
+- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. [Code repo](https://github.com/myl7/xshard)  
 
-- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "[PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput](https://ieeexplore.ieee.org/abstract/document/10428055)", *IEEE Transactions on Network Science and Engineering (TNSE)*. [Code
-  ](https://github.com/senp98/PuffChain) (Accepted)
+- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "[PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput](https://ieeexplore.ieee.org/abstract/document/10428055)", *IEEE Transactions on Network Science and Engineering (TNSE)*.(Accepted) [Code repo
+  ](https://github.com/senp98/PuffChain) 
   
 - **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "[AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556)," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
 
@@ -38,7 +38,7 @@ author_profile: true
 - 
 ## Submitted Papers
 
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "Machine Unlearning: Solutions and Challenges", *IEEE Transactions on Emerging Topics in Computational Intelligence* (Minor) [arXiv](https://arxiv.org/abs/2308.07061).
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "Machine Unlearning: Solutions and Challenges", *IEEE Transactions on Emerging Topics in Computational Intelligence* (Minor). [arXiv](https://arxiv.org/abs/2308.07061)
 
 ## Patent
 - [CN108282778A](https://patents.google.com/patent/CN108282778A/en), "Anonymous and Fast Roaming Authentication for Space Information Network"
