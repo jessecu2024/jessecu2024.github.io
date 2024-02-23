@@ -5,21 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Submitted Papers
-
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "Machine Unlearning: Solutions and Challenges", *IEEE Transactions on Emerging Topics in Computational Intelligence* (Minor) [arXiv](https://arxiv.org/abs/2308.07061).
-
 ## Published Papers
 
-- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*. [GitHub](https://github.com/myl7/xshard) (Accepted)
+- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. [GitHub](https://github.com/myl7/xshard)  
 
-- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput", *IEEE Transactions on Network Science and Engineering (TNSE)*. [GitHub](https://github.com/senp98/PuffChain) (Accepted)
+- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "[PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput](https://ieeexplore.ieee.org/abstract/document/10428055)", *IEEE Transactions on Network Science and Engineering (TNSE)*. [GitHub](https://github.com/senp98/PuffChain) (Accepted)
   
-- **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
+- **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "[AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556)," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
 
-- **Jie Xu**, Cong Wang and Xiaohua Jia, "A Survey of Blockchain Consensus Protocols," *ACM Computing Surveys*, vol. 55, no. 13s, pp. 1-35, 2023.
+- **Jie Xu**, Cong Wang and Xiaohua Jia, "[A Survey of Blockchain Consensus Protocols](https://dl.acm.org/doi/abs/10.1145/3579845)," *ACM Computing Surveys*, vol. 55, no. 13s, pp. 1-35, 2023.
 
-- **Jie Xu**, Yingying Cheng, Cong Wang and Xiaohua Jia, "Occam: A Secure and Adaptive Scaling Protocol for Permissionless Blockchain," in *Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)*, July 7-10, 2021.
+- **Jie Xu**, Yingying Cheng, Cong Wang and Xiaohua Jia, "[Occam: A Secure and Adaptive Scaling Protocol for Permissionless Blockchain](https://ieeexplore.ieee.org/abstract/document/9546407)," in *Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)*, July 7-10, 2021.
 
 - **Jie Xu**, Kaiping Xue, Hangyu Tian, Jianan Hong, David S.L. Wei, and Peilin Hong, "An Identity Management and Authentication Scheme Based on Redactable Blockchain for Mobile Networks," *IEEE Transactions on Vehicular Technology (TVT)*, vol. 69, no. 6, pp. 6688-6698, 2020.
 
@@ -38,6 +34,10 @@ author_profile: true
 - Peixuan He, Kaiping Xue, **Jie Xu**, Qiudong Xia, Jianqing Liu, Hao Yue, "Attribute-based Accountable Access Control for Multimedia Content with In-network Caching," in *Proceedings of the 2019 IEEE International Conference on Multimedia and Expo (ICME 2019)*.
 
 - Wei Meng, Kaiping Xue, **Jie Xu**, Jianan Hong, and Nenghai Yu, "Low-Latency Authentication Against Satellite Compromising for Space Information Network," in *Proceeding of the 15th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS 2018)*. IEEE, 2018, pp. 237-244. 🏆**Best Paper Runner Up**
+- 
+## Submitted Papers
+
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "Machine Unlearning: Solutions and Challenges", *IEEE Transactions on Emerging Topics in Computational Intelligence* (Minor) [arXiv](https://arxiv.org/abs/2308.07061).
 
 ## Patent
 - [CN108282778A](https://patents.google.com/patent/CN108282778A/en), "Anonymous and Fast Roaming Authentication for Space Information Network"
