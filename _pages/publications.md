@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Published Papers
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "Machine Unlearning: Solutions and Challenges", *IEEE Transactions on Emerging Topics in Computational Intelligence* (Accept). [arXiv](https://arxiv.org/abs/2308.07061)
 
 - **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. [Code repo](https://github.com/myl7/xshard)  
 
@@ -35,10 +36,7 @@ author_profile: true
 - Peixuan He, Kaiping Xue, **Jie Xu**, Qiudong Xia, Jianqing Liu, Hao Yue, "[Attribute-based Accountable Access Control for Multimedia Content with In-network Caching](https://ieeexplore.ieee.org/abstract/document/8785010)," in *Proceedings of the 2019 IEEE International Conference on Multimedia and Expo (ICME 2019)*.
 
 - Wei Meng, Kaiping Xue, **Jie Xu**, Jianan Hong, and Nenghai Yu, "[Low-Latency Authentication Against Satellite Compromising for Space Information Network](https://ieeexplore.ieee.org/abstract/document/8567567)," in *Proceeding of the 15th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS 2018)*. IEEE, 2018, pp. 237-244. 🏆**Best Paper Runner Up**
-- 
-## Submitted Papers
 
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "Machine Unlearning: Solutions and Challenges", *IEEE Transactions on Emerging Topics in Computational Intelligence* (Minor). [arXiv](https://arxiv.org/abs/2308.07061)
 
 ## Patent
 - [CN108282778A](https://patents.google.com/patent/CN108282778A/en), "Anonymous and Fast Roaming Authentication for Space Information Network"
