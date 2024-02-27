@@ -14,7 +14,7 @@ I am a final-year Ph.D. candidate at the Department of Computer Science, City Un
 
 ### ⭐ Research Interests
 - Blockchain and Distributed System Consensus
-- Large Model Learning and Unlearning
+- Trustworthy Artificial Intelligence
 - Network Security and Applied Cryptography
 
 ### 🎓 Education
