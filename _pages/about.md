@@ -15,7 +15,7 @@ I am a final-year Ph.D. candidate at the Department of Computer Science, City Un
 ### ⭐ Research Interests
 - Blockchain and Distributed System Consensus
 - Trustworthy Artificial Intelligence
-- Network Security and Applied Cryptography
+- Data Privacy and Network Security
 
 ### 🎓 Education
 **City University of Hong Kong (CityU)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2020 - Aug. 2024 (expected)_  
