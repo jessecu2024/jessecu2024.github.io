@@ -25,6 +25,8 @@ author_profile: true
 
 - **Jie Xu**, Kaiping Xue, Qingyou Yang, and Peilin Hong, "[PSAP: Pseudonym-based Secure Authentication Protocol for NFC Applications](https://ieeexplore.ieee.org/abstract/document/8307349)," *IEEE Transactions on Consumer Electronics*, vol. 64, no. 1, pp. 83-91, 2018.
 
+- Jianfei He, Shichao Sun, Sen Peng, **Jie Xu**, Xiaohua Jia, Wenjie Li, "[Contrastive Preference Learning for Neural Machine Translation](https://openreview.net/forum?id=dDhy2uE4TKbq)," *NAACL 2024 Findings*, 2024.
+  
 - Sen Peng, Yufei Chen, **Jie Xu**, Zizhuo Chen, Cong Wang and Xiaohua Jia, "[Intellectual Property Protection of DNN Models](https://link.springer.com/article/10.1007/s11280-022-01113-3)," *World Wide Web Journal*, 2022.
 
 - Xingyi Luo, Kaiping Xue, **Jie Xu**, Qibin Sun, and Yongdong Zhang, "[Blockchain-based Secure Data Aggregation and Distributed Power Dispatching for Microgrids](https://ieeexplore.ieee.org/abstract/document/9493753)," *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5268 - 5279, 2021.
