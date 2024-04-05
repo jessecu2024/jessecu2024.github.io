@@ -16,10 +16,6 @@ author_profile: true
 - **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "[AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556)," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
 
 - **Jie Xu**, Yingying Cheng, Cong Wang and Xiaohua Jia, "[Occam: A Secure and Adaptive Scaling Protocol for Permissionless Blockchain](https://ieeexplore.ieee.org/abstract/document/9546407)," in *Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)*, July 7-10, 2021.
-
-- **Jie Xu**, Kaiping Xue, Hangyu Tian, Jianan Hong, David S.L. Wei, and Peilin Hong, "[An Identity Management and Authentication Scheme Based on Redactable Blockchain for Mobile Networks](https://ieeexplore.ieee.org/abstract/document/9060994)," *IEEE Transactions on Vehicular Technology (TVT)*, vol. 69, no. 6, pp. 6688-6698, 2020.
-
-- **Jie Xu**, Kaiping Xue, Shaohua Li, Jianan Hong, Peilin Hong, and Nenghai Yu, "[Healthchain: A Blockchain-based Privacy Preserving Scheme for Large-scale Health Data](https://ieeexplore.ieee.org/abstract/document/8738810)," *IEEE Internet of Things Journal*, vol. 6, no. 5, pp. 8770-8781, 2019. 🏆**Highly Cited Papers**
  
 - Xingyi Luo, Kaiping Xue, **Jie Xu**, Qibin Sun, and Yongdong Zhang, "[Blockchain-based Secure Data Aggregation and Distributed Power Dispatching for Microgrids](https://ieeexplore.ieee.org/abstract/document/9493753)," *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5268 - 5279, 2021.
 
@@ -34,6 +30,9 @@ author_profile: true
 
 ## Data Privacy and Network Security
 
+- **Jie Xu**, Kaiping Xue, Shaohua Li, Jianan Hong, Peilin Hong, and Nenghai Yu, "[Healthchain: A Blockchain-based Privacy Preserving Scheme for Large-scale Health Data](https://ieeexplore.ieee.org/abstract/document/8738810)," *IEEE Internet of Things Journal*, vol. 6, no. 5, pp. 8770-8781, 2019. 🏆**Highly Cited Papers**
+- **Jie Xu**, Kaiping Xue, Hangyu Tian, Jianan Hong, David S.L. Wei, and Peilin Hong, "[An Identity Management and Authentication Scheme Based on Redactable Blockchain for Mobile Networks](https://ieeexplore.ieee.org/abstract/document/9060994)," *IEEE Transactions on Vehicular Technology (TVT)*, vol. 69, no. 6, pp. 6688-6698, 2020.
+  
 - **Jie Xu**, Kaiping Xue, Qingyou Yang, and Peilin Hong, "[PSAP: Pseudonym-based Secure Authentication Protocol for NFC Applications](https://ieeexplore.ieee.org/abstract/document/8307349)," *IEEE Transactions on Consumer Electronics*, vol. 64, no. 1, pp. 83-91, 2018.
 
 - Qingyou Yang, Kaiping Xue, **Jie Xu**, Jiajie Wang, Fenghua Li, and Nenghai Yu, "[AnFRA: Anonymous and Fast Roaming Authentication for Space Information Network](https://ieeexplore.ieee.org/abstract/document/8409474)," *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 14, no. 2, pp. 486-497, 2019.
