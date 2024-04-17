@@ -22,6 +22,8 @@ author_profile: true
 - Hangyu Tian, Kaiping Xue, Xinyi Luo, Shaohua Li, **Jie Xu**, Jianqing Liu, Jun Zhao, David S.L. Wei, "[Enabling Cross-chain Transactions: A Decentralized Cryptocurrency Exchange Protocol](https://ieeexplore.ieee.org/abstract/document/9478888)," *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 16, pp. 3928 - 3941, 2021.
 
 ## Trustworthy AI
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LMEraser: Large Model Unlearning through Adaptive Prompt Tuning](https://arxiv.org/submit/5541477)", *arXiv preprint *, 2024.
+- 
 - **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240.  
 
 - Jianfei He, Shichao Sun, Sen Peng, **Jie Xu**, Xiaohua Jia, Wenjie Li, "[Contrastive Preference Learning for Neural Machine Translation](https://openreview.net/forum?id=dDhy2uE4TKbq)," *NAACL 2024 Findings*, 2024.
