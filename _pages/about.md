@@ -12,10 +12,8 @@ I am a final-year Ph.D. candidate at the Department of Computer Science, City Un
 
 ❤️ My passion has always been centered around ensuring reliability and security in various fields such as AI, blockchain, distributed systems, and communications networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
 
-### 📢 News
-**On the Academic Job Market!**  
-
-I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
+### 📢 News    
+**On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
 
 
 ### ⭐ Research Interests
