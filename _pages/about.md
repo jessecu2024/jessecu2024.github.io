@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year Ph.D. candidate at the Department of Computer Science, City University of Hong Kong. I am supervised by Prof. Xiaohua Jia.  
 
-❤️ My passion has always been centered around ensuring reliability and security in various fields such as AI, blockchain, distributed systems, and communications networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
+❤️ My passion has always been centered around ensuring reliability and security in various fields such as  distributed systems/blockchain, AI, and computer networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
 
 ### 📢 News    
 **On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
