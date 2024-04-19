@@ -11,9 +11,9 @@ author_profile: true
   - _CS1102 Introduction to Computer Studies_ (2020/21 Semester B)
     - Role: Assisted in introducing Internet technologies and basic programming, focusing on software tools and web content scripting.
   - _CS2204 Fundamentals of Internet Applications Development_ (2020/21 Semester A)
-    - Role: Assisted in teaching web programming fundamentals, including XHTML, CSS, scripting, and client-side application development.
+    - Role: Assisted in conducting tutorials on web programming fundamentals, including XHTML, CSS, scripting.
   - _CS8692 Comprehensive Studies in Selected Topics in CS_ (2021/22 Semester A & B)
-    - Role: Assisted graduate students in understanding advanced studies covering selected topics in computer science.
+    - Role: Assisted graduate students in understanding advanced topics in computer science.
   - _CS8695 Research in Computer Science_ (2022/23 Semester A)
     - Role: Assisted graduate students with their research projects in various computer science domains.
 
