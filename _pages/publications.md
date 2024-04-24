@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Trustworthy AI
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LMEraser: Large Model Unlearning through Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)", arXiv preprint arXiv:2404.11056, 2024. [Code repo](https://github.com/lmeraser/lmeraser)  
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LMEraser: Large Model Unlearning through Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)", arXiv preprint arXiv:2404.11056, 2024. 📁 [Code repo](https://github.com/lmeraser/lmeraser)  
 
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240.  [Code repo](https://github.com/jessecu2024/unlearningsurvey)
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240. 📁 [Code repo](https://github.com/jessecu2024/unlearningsurvey)
 
 - Jianfei He, Shichao Sun, Sen Peng, **Jie Xu**, Xiaohua Jia, Wenjie Li, "[Contrastive Preference Learning for Neural Machine Translation](https://openreview.net/forum?id=dDhy2uE4TKbq)," *NAACL 2024 Findings*, 2024.
   
@@ -15,8 +15,9 @@ author_profile: true
 
 ##  Blockchain and Distributed System Consensus
 
-- **Jie Xu**, Cong Wang and Xiaohua Jia, "[A Survey of Blockchain Consensus Protocols](https://dl.acm.org/doi/abs/10.1145/3579845)," *ACM Computing Surveys*, vol. 55, no. 13s, pp. 1-35, 2023. [Code repo](https://github.com/jessecu2024/Paper-collection)
-- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. [Code repo](https://github.com/myl7/xshard)  
+- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. 📁 [Code repo](https://github.com/myl7/xshard)
+  
+- **Jie Xu**, Cong Wang and Xiaohua Jia, "[A Survey of Blockchain Consensus Protocols](https://dl.acm.org/doi/abs/10.1145/3579845)," *ACM Computing Surveys*, vol. 55, no. 13s, pp. 1-35, 2023. 📁 [Code repo](https://github.com/jessecu2024/Paper-collection)
 
 - **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "[PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput](https://ieeexplore.ieee.org/abstract/document/10428055)", *IEEE Transactions on Network Science and Engineering (TNSE)*, pp. 1-14, 2024, doi: 10.1109/TNSE.2024.3363880. [Code repo  ](https://github.com/senp98/PuffChain) 
   
