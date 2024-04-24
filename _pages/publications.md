@@ -4,6 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Trustworthy AI
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LMEraser: Large Model Unlearning through Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)", arXiv preprint arXiv:2404.11056, 2024. [Code repo](https://github.com/lmeraser/lmeraser)  
+
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240.  [Code repo](https://github.com/jessecu2024/unlearningsurvey)
+
+- Jianfei He, Shichao Sun, Sen Peng, **Jie Xu**, Xiaohua Jia, Wenjie Li, "[Contrastive Preference Learning for Neural Machine Translation](https://openreview.net/forum?id=dDhy2uE4TKbq)," *NAACL 2024 Findings*, 2024.
+  
+- Sen Peng, Yufei Chen, **Jie Xu**, Zizhuo Chen, Cong Wang and Xiaohua Jia, "[Intellectual Property Protection of DNN Models](https://link.springer.com/article/10.1007/s11280-022-01113-3)," *World Wide Web Journal*, vol. 26, no. 4, pp. 1877-1911, 2023.
 
 ##  Blockchain and Distributed System Consensus
 
@@ -19,15 +27,6 @@ author_profile: true
 - Xingyi Luo, Kaiping Xue, **Jie Xu**, Qibin Sun, and Yongdong Zhang, "[Blockchain-based Secure Data Aggregation and Distributed Power Dispatching for Microgrids](https://ieeexplore.ieee.org/abstract/document/9493753)," *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5268 - 5279, 2021.
 
 - Hangyu Tian, Kaiping Xue, Xinyi Luo, Shaohua Li, **Jie Xu**, Jianqing Liu, Jun Zhao, David S.L. Wei, "[Enabling Cross-chain Transactions: A Decentralized Cryptocurrency Exchange Protocol](https://ieeexplore.ieee.org/abstract/document/9478888)," *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 16, pp. 3928 - 3941, 2021.
-
-## Trustworthy AI
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LMEraser: Large Model Unlearning through Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)", arXiv preprint arXiv:2404.11056, 2024. [Code repo](https://github.com/lmeraser/lmeraser)  
-
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240.  
-
-- Jianfei He, Shichao Sun, Sen Peng, **Jie Xu**, Xiaohua Jia, Wenjie Li, "[Contrastive Preference Learning for Neural Machine Translation](https://openreview.net/forum?id=dDhy2uE4TKbq)," *NAACL 2024 Findings*, 2024.
-  
-- Sen Peng, Yufei Chen, **Jie Xu**, Zizhuo Chen, Cong Wang and Xiaohua Jia, "[Intellectual Property Protection of DNN Models](https://link.springer.com/article/10.1007/s11280-022-01113-3)," *World Wide Web Journal*, vol. 26, no. 4, pp. 1877-1911, 2023.
 
 ## Data Privacy and Network Security
 
