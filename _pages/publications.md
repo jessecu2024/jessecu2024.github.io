@@ -15,7 +15,7 @@ author_profile: true
 
 ##  Blockchain and Distributed System Consensus
 
-- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. 📁 [Code repo](https://github.com/myl7/xshard) [X-Shard Supplementary Material]([https://github.com/myl7/xshard](https://github.com/jessecu2024/jessecu2024.github.io/blob/master/files/X-Shard%20Supplementary%20Material.pdf))
+- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. 📁 [Code repo](https://github.com/myl7/xshard) [X-Shard Supplementary Material](https://github.com/jessecu2024/jessecu2024.github.io/blob/master/files/X-Shard%20Supplementary%20Material.pdf)
   
 - **Jie Xu**, Cong Wang and Xiaohua Jia, "[A Survey of Blockchain Consensus Protocols](https://dl.acm.org/doi/abs/10.1145/3579845)," *ACM Computing Surveys*, vol. 55, no. 13s, pp. 1-35, 2023. 📁 [Code repo](https://github.com/jessecu2024/Paper-collection)
 
