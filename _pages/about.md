@@ -28,7 +28,7 @@ Supervisor: [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/)
 
 **University of Science and Technology of China (USTC)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2017 - Jul. 2020_  
 _Master of Engineering in Electronics and Communication Engineering (Graduated with Honors)_  
-Supervisors: [Prof. Kaiping Xue](https://faculty.ustc.edu.cn/kpxue) and Prof. Peiling Hong
+Supervisors: [Prof. Kaiping Xue](https://scholar.google.com.hk/citations?user=F310qPIAAAAJ&hl=zh-CN) and Prof. Peiling Hong
 
 **University of Science and Technology of China (USTC)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2013 - Jul. 2017_  
 _Bachelor of Engineering in Information Security (Graduated with Honors)_  
