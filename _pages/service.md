@@ -15,6 +15,7 @@ author_profile: true
     - IEEE Transactions on Mobile Computing (TMC)
     - IEEE Transactions on Services Computing (TSC)
     - IEEE Transactions on Network and Service Management (TNSM)
+    - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
     - IEEE Network Magazine
     - IET Blockchain
 
