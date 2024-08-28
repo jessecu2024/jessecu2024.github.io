@@ -22,7 +22,7 @@ I am a final-year Ph.D. candidate at the Department of Computer Science, City Un
 - Data Privacy and Cybersecurity
   
 ### 🎓 Education
-**City University of Hong Kong (CityU)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2020 - Aug. 2024 _  
+**City University of Hong Kong (CityU)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2020 - Aug. 2024_  
 _Ph.D. in Computer Science (Recipient of the Presidential PhD Scholarship)_  
 Supervisor: [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/) 
 
