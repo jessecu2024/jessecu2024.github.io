@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at the Department of Computer Science, City University of Hong Kong.  
+I am a postdoc. at the Department of Computer Science, City University of Hong Kong.  
 
 ❤️ My passion has always been to ensure reliability and security across various fields, including distributed systems/blockchains, AI, and computer networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
 
