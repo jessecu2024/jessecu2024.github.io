@@ -13,7 +13,7 @@ author_profile: true
   
 - Sen Peng, Yufei Chen, **Jie Xu**, Zizhuo Chen, Cong Wang and Xiaohua Jia, "[Intellectual Property Protection of DNN Models](https://link.springer.com/article/10.1007/s11280-022-01113-3)," *World Wide Web Journal*, vol. 26, no. 4, pp. 1877-1911, 2023.
 
-##  Blockchain and Distributed System Consensus
+##  Distributed Consensus and Blockchains
 
 - **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. 📁 [Code repo](https://github.com/myl7/xshard) 📃[X-Shard Supplementary Material](https://github.com/jessecu2024/jessecu2024.github.io/blob/master/files/X-Shard%20Supplementary%20Material.pdf)
   
