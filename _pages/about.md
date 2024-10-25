@@ -17,7 +17,7 @@ I am a postdoc at the Department of Computer Science, City University of Hong Ko
 
 
 ### ⭐ Research Interests
-- Blockchain and Distributed System Consensus
+- Distributed Consensus and Blockchains
 - Trustworthy Artificial Intelligence
 - Data Privacy and Cybersecurity
   
