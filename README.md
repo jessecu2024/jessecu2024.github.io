@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jie Xu, a final-year Ph.D. candidate at City University of Hong Kong.
+- 👋 Hi, I’m Jie Xu, a postdoc at City University of Hong Kong.
 - 👀 I’m interested in ensuring reliability and security across various fields, including distributed systems/blockchains, AI, and computer networks. 
 - 🌱 I’m currently exploring the large model learning and unlearning, and how these concepts can revolutionize data processing and AI system security.
 - 💞️ I’m looking to collaborate on innovative projects that seek to enhance the security, efficiency, and reliability of decentralized systems and AI technologies.
