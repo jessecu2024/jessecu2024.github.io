@@ -22,17 +22,17 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 *How do we build systems that truly deserve our trust? Through three progressive levels:*
 
-Level 1: Existential Trust  (*Can this system work?*)
+**Level 1: Existential Trust** &nbsp;&nbsp;&nbsp;&nbsp; _(*Can this system work?*)_ 
 
 Core Qualities: Secure (Confidential, Integral and Available) · Efficient · Reliable ·  Robust 
 
-Level 2: Relational Trust  (*Can this system connect and interact?*) 
+**Level 2: Relational Trust** &nbsp;&nbsp;&nbsp;&nbsp; _(*Can this system connect and interact?*)_  
 
 Core Qualities: Explainable · Controllable ·  Predictable · Auditable
 
-Level 3: Developmental Trust (*Can this system develop and improve?*)
+**Level 3: Developmental Trust** &nbsp;&nbsp;&nbsp;&nbsp; _(*Can this system develop and improve?*)_ 
 
-Core Qualities: Scalable · Adaptive · Accountable · Evolvable · Ethical · Value-aligned
+Core Qualities: Scalable · Adaptive · Accountable · Evolvable ·Sustainable· Ethical · Value-aligned
 
  
 ## 📢 News    
