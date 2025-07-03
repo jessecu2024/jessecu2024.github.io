@@ -24,7 +24,7 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 **Level 1: Existential Trust** &nbsp;&nbsp;&nbsp;&nbsp; _(*Can this system work?*)_ 
 
-Core Qualities: Secure (Confidential, Integral and Available) · Efficient · Reliable ·  Robust 
+Core Qualities: Secure · Confidential · Integral · Available · · Efficient · Reliable ·  Robust 
 
 **Level 2: Relational Trust** &nbsp;&nbsp;&nbsp;&nbsp; _(*Can this system connect and interact?*)_  
 
