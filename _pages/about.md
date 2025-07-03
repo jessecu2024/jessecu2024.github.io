@@ -19,16 +19,16 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 ## 🧱 **System Trust: A Three-Layer Framework**
 
-*How do we build systems that truly deserve our trust? I believe trust emerges through three progressive levels:*
+*How do we build systems that truly deserve our trust? Through three progressive levels:*
 
-###  Level 1: Existential Trust  -"Can this system work?"
-→ **Core Qualities:** Effective · Secure (Confidential, Integral and Available) · Efficient · Reliable ·  Robust 
+### -Level 1: Existential Trust  -"Can this system work?"
+**Core Qualities:** Secure (Confidential, Integral and Available) · Efficient · Reliable ·  Robust 
 
-###  Level 2: Relational Trust  -"Can this system connect and interact?" 
-→ **Core Qualities:** Explainable · Controllable ·  Predictable · Auditable
+### -Level 2: Relational Trust  -"Can this system connect and interact?" 
+**Core Qualities:** Explainable · Controllable ·  Predictable · Auditable
 
-###  Level 3: Developmental Trust -"Can this system develop and improve?"
-→ **Core Qualities:**  Scalable · Adaptive · Accountable · Evolvable · Ethical · Value-aligned
+### -Level 3: Developmental Trust -"Can this system develop and improve?"
+**Core Qualities:**  Scalable · Adaptive · Accountable · Evolvable · Ethical · Value-aligned
 
  
 ## 📢 News    
