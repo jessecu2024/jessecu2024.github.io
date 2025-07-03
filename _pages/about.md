@@ -21,18 +21,7 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 *How do we build systems that truly deserve our trust? Through three progressive levels:*
 
-**Level 1: Existential Trust** &nbsp;&nbsp;&nbsp;&nbsp; _- Can this system work?_ 
-
-Secure · Confidential · Integral · Available · Efficient · Reliable 
-
-**Level 2: Relational Trust** &nbsp;&nbsp;&nbsp;&nbsp; _- Can this system connect and interact?_  
-
-Explainable · Controllable ·  Predictable · Auditable
-
-**Level 3: Developmental Trust** &nbsp;&nbsp;&nbsp;&nbsp; _- Can this system develop and improve?_ 
-
-Scalable · Adaptive · Evolvable ·Sustainable· Ethical 
-
+![System Trust Three-Layer Framework](images/3layers.png)
  
 ## 📢 News    
 **On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
