@@ -1,34 +1,37 @@
 ---
 permalink: /
-title: "Jie Xu (许婕)"
+title: "Jie Xu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Build Systems We Trust.
 
 I am a postdoc at the Department of Computer Science, City University of Hong Kong.  
 
-❤️ My passion is to **build systems that we can trust**: systems that are not only secure and reliable, but also understandable, adaptable, and aligned with human values. My work spans  distributed systems/blockchains, AI, and computer networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
+# Build Systems We Trust！
+❤️ My passion is to **build systems that we can trust**: systems that are not only technically sound, but also explainable, adaptable, and aligned with human values. 
 
- 
-### 🧠 System Trust: A Three-Layer Model
+My work spans  distributed systems/blockchains, AI, and computer networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
 
-I conceptualize system trust in three layers, which guide both my research and design philosophy:
+---
 
-#### ✅ Existential Trust  
+## 🧠 **System Trust: A Three-Layer Framework**
+
+*How do we build systems that truly deserve our trust? I believe trust emerges through three progressive levels:*
+
+#### ✅ Level 1: Existential Trust  
 _"Can this system work?"_  
-→ Secure · Reliable · Efficient · Available · Robust · Reproducible
+→ Efficient · Effective · Secure (Confidential, Integral and Available) · Reliable ·  Robust 
 
-#### 🤝 Relational Trust  
+#### 🤝 Level 2: Relational Trust  
 _"Can this system connect?"_  
-→ Explainable · Observable · Controllable · Interoperable · Predictable · **Auditable**
+→ Explainable · Controllable ·  Predictable · Auditable
 
-#### 🌱 Developmental Trust  
+#### 🌱 Level 3: Developmental Trust  
 _"Can this system develop?"_  
-→ Adaptive · Transparent · Ethical · Accountable · Evolvable · Value-aligned
+→ Adaptive · Scalable · Ethical · Accountable · Evolvable · Value-aligned
 
 > I design systems that not only function, but connect, evolve, and ultimately earn long-term trust.
 
