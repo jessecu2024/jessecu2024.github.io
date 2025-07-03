@@ -16,7 +16,6 @@ My passion is to build systems that we can trust: systems that are not only tech
 
 My work spans  distributed systems/blockchains, AI, and computer networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
 
----
 
 ## 🧱 **System Trust: A Three-Layer Framework**
 
