@@ -21,7 +21,7 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 *How do we build systems that truly deserve our trust? Through three progressive levels:*
 
-![System Trust Three-Layer Framework](images/3layers.png)
+![System Trust Three-Layer Framework](jessecu2024.github.io/images/3layers.png)
  
 ## 📢 News    
 **On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
