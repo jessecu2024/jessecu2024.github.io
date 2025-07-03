@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link rel="preload" href="/images/3layers.png" as="image">
 
 I am a postdoc at the Department of Computer Science, City University of Hong Kong.  
 
@@ -21,7 +22,12 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 *How do we build systems that truly deserve our trust? Through three progressive levels:*
 
-![System Trust Three-Layer Framework](/images/3layers.png)
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/3layers.png" 
+       alt="System Trust Pyramid" 
+       style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+       loading="eager">
+</div>
  
 ## 📢 News    
 **On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
