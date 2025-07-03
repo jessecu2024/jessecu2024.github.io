@@ -10,41 +10,40 @@ redirect_from:
 
 I am a postdoc at the Department of Computer Science, City University of Hong Kong.  
 
-# Build Systems We Trust！
-❤️ My passion is to **build systems that we can trust**: systems that are not only technically sound, but also explainable, adaptable, and aligned with human values. 
+#❤️ Build Systems We Trust！
+My passion is to build systems that we can trust: systems that are not only technically sound, but also explainable, adaptable, and aligned with human values. 
 
 My work spans  distributed systems/blockchains, AI, and computer networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
 
 ---
 
-## 🧠 **System Trust: A Three-Layer Framework**
+## 🧱 **System Trust: A Three-Layer Framework**
 
 *How do we build systems that truly deserve our trust? I believe trust emerges through three progressive levels:*
 
-#### ✅ Level 1: Existential Trust  
+### ✅ Level 1: Existential Trust  
 _"Can this system work?"_  
-→ Efficient · Effective · Secure (Confidential, Integral and Available) · Reliable ·  Robust 
+→ Effective · Secure (Confidential, Integral and Available) · Efficient · Reliable ·  Robust 
 
-#### 🤝 Level 2: Relational Trust  
+### 🤝 Level 2: Relational Trust  
 _"Can this system connect?"_  
 → Explainable · Controllable ·  Predictable · Auditable
 
-#### 🌱 Level 3: Developmental Trust  
+### 🌱 Level 3: Developmental Trust  
 _"Can this system develop?"_  
-→ Adaptive · Scalable · Ethical · Accountable · Evolvable · Value-aligned
+→  Scalable · Adaptive · Accountable · Evolvable · Ethical · Value-aligned
 
-> I design systems that not only function, but connect, evolve, and ultimately earn long-term trust.
-
-### 📢 News    
+ 
+## 📢 News    
 **On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
 
 
-### ⭐ Research Interests
+## ⭐ Research Interests
 - Distributed Consensus and Blockchains
 - Trustworthy Artificial Intelligence
 - Data Privacy and Cybersecurity
   
-### 🎓 Education
+## 🎓 Education
 **City University of Hong Kong (CityU)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2020 - Aug. 2024_  
 _Ph.D. in Computer Science (Recipient of the Presidential PhD Scholarship)_  
 Supervisor: [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/) 
