@@ -20,8 +20,10 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 ## 🧱 **System Trust Pyramid**
 
-* - How do we build systems that truly deserve our trust? *
-* - Through three progressive levels! *
+*-How do we build systems that truly deserve our trust?*
+
+*-Through three progressive levels!*
+
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/3layers.png" 
        alt="System Trust Pyramid" 
