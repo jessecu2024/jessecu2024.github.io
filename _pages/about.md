@@ -20,7 +20,14 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 ## 🧱 **System Trust Pyramid**
 
-*How do we build systems that truly deserve our trust? Through three progressive levels:*
+<div style="background: white; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 20px 0; overflow: hidden; border: 1px solid #e9ecef;">
+  <div style="background: #f8f9fa; padding: 20px; font-size: 1.2em; font-weight: 600; color: #495057; border-bottom: 1px solid #e9ecef;">
+    How do we build systems that truly deserve our trust?
+  </div>
+  <div style="padding: 20px; font-size: 1.1em; color: #6c757d;">
+    Through three progressive levels: <strong>Existential → Relational → Developmental Trust</strong>.
+  </div>
+</div>
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/3layers.png" 
