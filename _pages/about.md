@@ -19,7 +19,7 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 ---
 
-*-How do we build systems that truly deserve our trust?*
+*-How do we build systems that deserve our trust?*
 
 *-Through three progressive levels!*
 
@@ -31,15 +31,6 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
        style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
        loading="eager">
 </div>
- 
-## 📢 News    
-**On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
-
-
-## ⭐ Research Interests
-- Distributed Consensus and Blockchains
-- Trustworthy Artificial Intelligence
-- Data Privacy and Cybersecurity
   
 ## 🎓 Education
 **City University of Hong Kong (CityU)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2020 - Aug. 2024_  
@@ -54,5 +45,7 @@ Supervisors: [Prof. Kaiping Xue](https://scholar.google.com.hk/citations?user=F3
 _Bachelor of Engineering in Information Security (Graduated with Honors)_  
 _Bachelor of Literature in Communication (Dual Degree)_  
 
-
+ 
+## 📢 News    
+**On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
 
