@@ -11,7 +11,7 @@ redirect_from:
 
 I am a postdoc at the Department of Computer Science, City University of Hong Kong.  
 
-# ❤️ **Build Systems We Trust!**
+# ❤️ **Build Trust Together!**
 
 My passion is to build systems that we can trust: systems that are not only technically sound, but also explainable, adaptable, and aligned with human values. 
 
