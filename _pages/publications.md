@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## Trustworthy AI
+- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LiveVal: Real-time and Trajectory-based Data Valuation via Adaptive Reference Points](https://arxiv.org/abs/2502.10489)", CIKM 2025.
+
 - **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LMEraser: Large Model Unlearning via Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)", AISTATS 2025. 📁 [Code repo](https://github.com/lmeraser/lmeraser)  
 
 - **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240. 📁 [Code repo](https://github.com/jessecu2024/unlearningsurvey)
