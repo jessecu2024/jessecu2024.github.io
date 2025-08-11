@@ -15,7 +15,7 @@ author_profile: true
   
 - Sen Peng, Yufei Chen, **Jie Xu**, Zizhuo Chen, Cong Wang and Xiaohua Jia, "[Intellectual Property Protection of DNN Models](https://link.springer.com/article/10.1007/s11280-022-01113-3)," *World Wide Web Journal*, vol. 26, no. 4, pp. 1877-1911, 2023.
 
-##  Distributed Consensus and Blockchains
+##  Distributed Consensus 
 
 - **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. 📁 [Code repo](https://github.com/myl7/xshard) 📃[X-Shard Supplementary Material](https://github.com/jessecu2024/jessecu2024.github.io/blob/master/files/X-Shard%20Supplementary%20Material.pdf)
   
@@ -31,7 +31,7 @@ author_profile: true
 
 - Hangyu Tian, Kaiping Xue, Xinyi Luo, Shaohua Li, **Jie Xu**, Jianqing Liu, Jun Zhao, David S.L. Wei, "[Enabling Cross-chain Transactions: A Decentralized Cryptocurrency Exchange Protocol](https://ieeexplore.ieee.org/abstract/document/9478888)," *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 16, pp. 3928 - 3941, 2021.
 
-## Data Privacy and Network Security
+## Networking and Data Engineering 
 
 - **Jie Xu**, Kaiping Xue, Shaohua Li, Jianan Hong, Peilin Hong, and Nenghai Yu, "[Healthchain: A Blockchain-based Privacy Preserving Scheme for Large-scale Health Data](https://ieeexplore.ieee.org/abstract/document/8738810)," *IEEE Internet of Things Journal*, vol. 6, no. 5, pp. 8770-8781, 2019. 🏆**Highly Cited Papers**
 - **Jie Xu**, Kaiping Xue, Hangyu Tian, Jianan Hong, David S.L. Wei, and Peilin Hong, "[An Identity Management and Authentication Scheme Based on Redactable Blockchain for Mobile Networks](https://ieeexplore.ieee.org/abstract/document/9060994)," *IEEE Transactions on Vehicular Technology (TVT)*, vol. 69, no. 6, pp. 6688-6698, 2020.
