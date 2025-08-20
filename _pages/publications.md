@@ -46,7 +46,7 @@ author_profile: true
 
 ## Book
 - **Jie Xu** and Xiaohua Jia, "[Adaptive and Scalable Blockchain Systems](https://link.springer.com/book/10.1007/978-3-031-90811-8)", Springer Nature, 2025.
-- 
+  
 ## Patent
 - [CN108282778A](https://patents.google.com/patent/CN108282778A/en), "Anonymous and Fast Roaming Authentication for Space Information Network"
 
