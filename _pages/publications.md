@@ -42,9 +42,11 @@ author_profile: true
 
 - Peixuan He, Kaiping Xue, **Jie Xu**, Qiudong Xia, Jianqing Liu, Hao Yue, "[Attribute-based Accountable Access Control for Multimedia Content with In-network Caching](https://ieeexplore.ieee.org/abstract/document/8785010)," in *Proceedings of the 2019 IEEE International Conference on Multimedia and Expo (ICME 2019)*.
 
-- Wei Meng, Kaiping Xue, **Jie Xu**, Jianan Hong, and Nenghai Yu, "[Low-Latency Authentication Against Satellite Compromising for Space Information Network](https://ieeexplore.ieee.org/abstract/document/8567567)," in *Proceeding of the 15th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS 2018)*. IEEE, 2018, pp. 237-244. 🏆**Best Paper Runner Up**
+- Wei Meng, Kaiping Xue, **Jie Xu**, Jianan Hong, and Nenghai Yu, "[Low-Latency Authentication Against Satellite Compromising for Space Information Network](https://ieeexplore.ieee.org/abstract/document/8567567)," in *Proceeding of the 15th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS 2018)*, IEEE, 2018, pp. 237-244. 🏆**Best Paper Runner Up**
 
-
+## Book
+- **Jie Xu** and Xiaohua Jia, "[Adaptive and Scalable Blockchain Systems](https://link.springer.com/book/10.1007/978-3-031-90811-8)", Springer Nature, 2025.
+- 
 ## Patent
 - [CN108282778A](https://patents.google.com/patent/CN108282778A/en), "Anonymous and Fast Roaming Authentication for Space Information Network"
 
