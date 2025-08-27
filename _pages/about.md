@@ -19,12 +19,6 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 
 ---
 
-*-How do we build trust?*
-
-*-Through three progressive levels!*
-
-## 🧱 **Trust Pyramid**
-
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/3layers.png" 
        alt="System Trust Pyramid" 
