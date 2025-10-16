@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 ### Academic Service
+- **Member of the Technical Program Committee (TPC)**:
+    - The 21st IEEE International Conference on Mobility, Sensing and Networking (MSN 2025)
 
 - **Reviewer**:
+    - The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+    - The Forty-Second International Conference on Machine Learning (ICML 2025)
     - ACM Computing Surveys
     - IEEE International Conference on Distributed Computing Systems (ICDCS)
     - IEEE Transactions on Computers
