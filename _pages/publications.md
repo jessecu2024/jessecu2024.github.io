@@ -26,6 +26,8 @@ author_profile: true
 - **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "[AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556)," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
 
 - **Jie Xu**, Yingying Cheng, Cong Wang and Xiaohua Jia, "[Occam: A Secure and Adaptive Scaling Protocol for Permissionless Blockchain](https://ieeexplore.ieee.org/abstract/document/9546407)," in *Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)*, July 7-10, 2021.
+
+- Hongxu Su, Mingzhe Liu, **Jie Xu**, Xiaohua Jia, and Xuechao Wang, "GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship," in *Proceedings of the IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2026)*, 2026, accepted.
  
 - Xingyi Luo, Kaiping Xue, **Jie Xu**, Qibin Sun, and Yongdong Zhang, "[Blockchain-based Secure Data Aggregation and Distributed Power Dispatching for Microgrids](https://ieeexplore.ieee.org/abstract/document/9493753)," *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5268 - 5279, 2021.
 
