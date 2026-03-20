@@ -29,7 +29,7 @@ My work spans  distributed systems/blockchains, AI, and computer networks. I am 
 ## 🎓 Education
 **City University of Hong Kong (CityU)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2020 - Aug. 2024_  
 _Ph.D. in Computer Science (Recipient of the Presidential PhD Scholarship)_  
-Supervisor: [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/) 
+Supervisor: [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/) (ACM Fellow, IEEE Fellow)
 
 **University of Science and Technology of China (USTC)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2017 - Jul. 2020_  
 _Master of Engineering in Electronics and Communication Engineering (Graduated with Honors)_  
