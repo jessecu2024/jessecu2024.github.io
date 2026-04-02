@@ -17,14 +17,6 @@ My passion is to build systems that we can trust: systems that are not only tech
 
 My work spans  distributed systems/blockchains, AI, and computer networks. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
 
----
-
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/images/3layers.png" 
-       alt="System Trust Pyramid" 
-       style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
-       loading="eager">
-</div>
   
 ## 🎓 Education
 **City University of Hong Kong (CityU)** &nbsp;&nbsp;&nbsp;&nbsp; _Sep. 2020 - Aug. 2024_  
