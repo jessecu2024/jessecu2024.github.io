@@ -7,7 +7,7 @@ author_profile: true
 ## Trustworthy AI
 -  Zihan Wu, **Jie Xu**, Yun Peng, Chun Yong Chong and Xiaohua Jia,  "[MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution](https://arxiv.org/abs/2601.18847)", ACL 2026.📁 [Code repo](https://github.com/wzh4464/Mulvul)
 
--  Wenbo Pan, **Jie Xu**, Qiguang Chen, Junhao Dong, Libo Qin, Xinfeng Li, Yu Haining, and Xiaohua Jia, "[Can LLMs Refuse Questions They Do Not Know? Measuring Knowledge-Aware Refusal in Factual Tasks](https://arxiv.org/abs/2510.01782)", ICLR, 2026.
+-  Wenbo Pan, **Jie Xu**, Qiguang Chen, Junhao Dong, Libo Qin, Xinfeng Li, Yu Haining, and Xiaohua Jia, "[Can LLMs Refuse Questions They Do Not Know? Measuring Knowledge-Aware Refusal in Factual Tasks](https://arxiv.org/abs/2510.01782)", ICLR 2026.
 
 - **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LiveVal: Real-time and Trajectory-based Data Valuation via Adaptive Reference Points](https://arxiv.org/abs/2502.10489)", CIKM 2025. 📁 [Code repo](https://github.com/liveval/liveval)  
 
