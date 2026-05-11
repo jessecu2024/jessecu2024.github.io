@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Trustworthy AI
-- **Jie Xu**, Zihan Wu, Wenbo Pan, Jiao Yin, Yong-Feng Ge, Hua Wang,  Cong Wang and Xiaohua Jia, "[LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation", ICML 2026.
+- **Jie Xu**, Zihan Wu, Wenbo Pan, Jiao Yin, Yong-Feng Ge, Hua Wang,  Cong Wang and Xiaohua Jia, "LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation", ICML 2026.
   
 -  Zihan Wu, **Jie Xu**, Yun Peng, Chun Yong Chong and Xiaohua Jia,  "[MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution](https://arxiv.org/abs/2601.18847)", ACL 2026.📁 [Code repo](https://github.com/wzh4464/Mulvul)
 
