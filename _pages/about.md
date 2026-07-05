@@ -31,7 +31,4 @@ Supervisors: [Prof. Kaiping Xue](https://scholar.google.com.hk/citations?user=F3
 _Bachelor of Engineering in Information Security (Graduated with Honors)_  
 _Bachelor of Literature in Communication (Dual Degree)_  
 
- 
-## 📢 News    
-**On the Academic Job Market!**   I'm currently seeking new academic opportunities. Feel free to reach out for collaborations or more information! [jiexu49-c@my.cityu.edu.hk](mailto:jiexu49-c@my.cityu.edu.hk)
 
