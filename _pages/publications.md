@@ -9,7 +9,7 @@ author_profile: true
 
 - **Jie Xu**, Zihan Wu, Wenbo Pan, Jiao Yin, Yong-Feng Ge, Hua Wang,  Cong Wang and Xiaohua Jia, "[LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](https://openreview.net/pdf?id=g0Zm1TIrB1)", ICML 2026.
   
--  Zihan Wu, **Jie Xu**, Yun Peng, Chun Yong Chong and Xiaohua Jia,  "[MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution](https://arxiv.org/abs/2601.18847)", ACL 2026.📁 [Code repo](https://github.com/wzh4464/Mulvul)
+-  Zihan Wu, **Jie Xu**, Yun Peng, Chun Yong Chong and Xiaohua Jia,  "[MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution](https://aclanthology.org/2026.acl-long.391/)", ACL 2026.📁 [Code repo](https://github.com/wzh4464/Mulvul)
 
 -  Wenbo Pan, **Jie Xu**, Qiguang Chen, Junhao Dong, Libo Qin, Xinfeng Li, Yu Haining, and Xiaohua Jia, "[Can LLMs Refuse Questions They Do Not Know? Measuring Knowledge-Aware Refusal in Factual Tasks](https://arxiv.org/abs/2510.01782)", ICLR 2026.
 
