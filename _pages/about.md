@@ -15,7 +15,7 @@ I am a postdoc at the Department of Computer Science, City University of Hong Ko
 
 My passion is to build systems that are not only technically sound, but also scalable, adaptable, and aligned with human values. 
 
-My work spans AI, distributed systems/blockchains, and network infrastructure. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
+My work spans AI, distributed systems, and network infrastructure. I am committed to bridging the gap between technical advancements and real-world applications. I advocate for open-source and reproducible research projects.
 
   
 ## 🎓 Education
