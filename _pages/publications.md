@@ -4,63 +4,67 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*\* denotes equal contribution.*
+
 ## Trustworthy AI
 
-- **Jie Xu**, Zihan Wu, Wenbo Pan, et al., "When Does Training Data Matter? Dynamic Data Attribution via Window-level Influence Estimation", EMNLP 2026.
-  
-- **Jie Xu**, Zihan Wu, Yun Peng, et al., "No Isolated Evolution, No Blind Search: Memory-Guided Prompt Co-Evolution for Industrial Multi-Agent Vulnerability Detection", ASE 2026.
+- **Jie Xu**, Zihan Wu, Wenbo Pan, et al., "When Does Training Data Matter? Dynamic Data Attribution via Window-Level Influence Estimation", EMNLP 2026.
+
+- **Jie Xu**\*, Zihan Wu\*, Yun Peng, et al., "No Isolated Evolution, No Blind Search: Memory-Guided Prompt Co-Evolution for Industrial Multi-Agent Vulnerability Detection", ASE 2026.
 
 - **Jie Xu**, Zihan Wu, Wenbo Pan, et al., "[LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](https://openreview.net/pdf?id=g0Zm1TIrB1)", ICML 2026.
 
--  Zihan Wu*, **Jie Xu***, Yun Peng, et al.,  "[MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution](https://aclanthology.org/2026.acl-long.391/)", ACL 2026.📁 [Code repo](https://github.com/wzh4464/Mulvul)
+- Zihan Wu\*, **Jie Xu**\*, et al., "[MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution](https://aclanthology.org/2026.acl-long.391/)", ACL 2026. 📁 [Code repo](https://github.com/wzh4464/Mulvul)
 
--  Wenbo Pan, **Jie Xu**, Qiguang Chen, et al., "[Can LLMs Refuse Questions They Do Not Know? Measuring Knowledge-Aware Refusal in Factual Tasks](https://arxiv.org/abs/2510.01782)", ICLR 2026.
+- Wenbo Pan, **Jie Xu**, et al., "[Can LLMs Refuse Questions They Do Not Know? Measuring Knowledge-Aware Refusal in Factual Tasks](https://arxiv.org/abs/2510.01782)", ICLR 2026.
 
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LiveVal: Real-time and Trajectory-based Data Valuation via Adaptive Reference Points](https://arxiv.org/abs/2502.10489)", CIKM 2025. 📁 [Code repo](https://github.com/liveval/liveval)  
+- **Jie Xu**, Zihan Wu, Cong Wang, et al., "[LiveVal: Real-time and Trajectory-based Data Valuation via Adaptive Reference Points](https://arxiv.org/abs/2502.10489)", CIKM 2025. 📁 [Code repo](https://github.com/wzh4464/liveval)
 
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[LMEraser: Large Model Unlearning via Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)", AISTATS 2025. 📁 [Code repo](https://github.com/lmeraser/lmeraser)  
+- **Jie Xu**, Zihan Wu, Cong Wang, et al., "[LMEraser: Large Model Unlearning via Adaptive Prompt Tuning](https://arxiv.org/abs/2404.11056)", AISTATS 2025. 📁 [Code repo](https://github.com/wzh4464/lmeraser)
 
-- **Jie Xu**, Zihan Wu, Cong Wang and Xiaohua Jia, "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, doi: 10.1109/TETCI.2024.3379240. 📁 [Code repo](https://github.com/jessecu2024/unlearningsurvey)
+- **Jie Xu**, Zihan Wu, Cong Wang, et al., "[Machine Unlearning: Solutions and Challenges](https://ieeexplore.ieee.org/document/10488864)", *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024, doi: 10.1109/TETCI.2024.3379240. 📁 [Code repo](https://github.com/jessecu2024/unlearningsurvey)
 
-- Jianfei He, Shichao Sun, Sen Peng, **Jie Xu**, et al., "[Contrastive Preference Learning for Neural Machine Translation](https://openreview.net/forum?id=dDhy2uE4TKbq)," *NAACL 2024 Findings*, 2024.
-  
-- Sen Peng, Yufei Chen, **Jie Xu**, et al., "[Intellectual Property Protection of DNN Models](https://link.springer.com/article/10.1007/s11280-022-01113-3)," *World Wide Web Journal*, vol. 26, no. 4, pp. 1877-1911, 2023.
+- Jianfei He, Shichao Sun, Sen Peng, **Jie Xu**, et al., "[Contrastive Preference Learning for Neural Machine Translation](https://openreview.net/forum?id=dDhy2uE4TKbq)", *NAACL 2024 Findings*.
 
-##  Distributed Consensus 
+- Sen Peng, Yufei Chen, **Jie Xu**, et al., "[Intellectual Property Protection of DNN Models](https://link.springer.com/article/10.1007/s11280-022-01113-3)", *World Wide Web Journal*, vol. 26, no. 4, pp. 1877-1911, 2023.
 
-- **Jie Xu**, Yulong Ming, Zihan Wu, Cong Wang and Xiaohua Jia, "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548 - 559, 2024. 📁 [Code repo](https://github.com/myl7/xshard) 📃[X-Shard Supplementary Material](https://github.com/jessecu2024/jessecu2024.github.io/blob/master/files/X-Shard%20Supplementary%20Material.pdf)
-  
-- **Jie Xu**, Cong Wang and Xiaohua Jia, "[A Survey of Blockchain Consensus Protocols](https://dl.acm.org/doi/abs/10.1145/3579845)," *ACM Computing Surveys*, vol. 55, no. 13s, pp. 1-35, 2023. 📁 [Code repo](https://github.com/jessecu2024/Paper-collection)
+## Distributed Consensus
 
-- **Jie Xu**, Sen Peng, Cong Wang and Xiaohua Jia, "[PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput](https://ieeexplore.ieee.org/abstract/document/10428055)", *IEEE Transactions on Network Science and Engineering (TNSE)*, pp. 1-14, 2024, doi: 10.1109/TNSE.2024.3363880. 📁 [Code repo](https://github.com/senp98/PuffChain) 
-  
-- **Jie Xu**, Qingyuan Xie, Sen Peng, Cong Wang, and Xiaohua Jia, "[AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556)," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
+- **Jie Xu**, Yulong Ming, Zihan Wu, et al., "[X-shard: An Optimistic Cross-shard Transaction Processing Protocol for Account-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10418573)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 35, no. 4, pp. 548-559, 2024. 📁 [Code repo](https://github.com/myl7/xshard) 📃 [X-Shard Supplementary Material](https://github.com/jessecu2024/jessecu2024.github.io/blob/master/files/X-Shard%20Supplementary%20Material.pdf)
 
-- **Jie Xu**, Yingying Cheng, Cong Wang and Xiaohua Jia, "[Occam: A Secure and Adaptive Scaling Protocol for Permissionless Blockchain](https://ieeexplore.ieee.org/abstract/document/9546407)," in *Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)*, July 7-10, 2021.
+- **Jie Xu**, Cong Wang and Xiaohua Jia, "[A Survey of Blockchain Consensus Protocols](https://dl.acm.org/doi/abs/10.1145/3579845)", *ACM Computing Surveys*, vol. 55, no. 13s, pp. 1-35, 2023. 🏆 **ESI Highly Cited Paper (Top 1%)** 📁 [Code repo](https://github.com/jessecu2024/Paper-collection)
 
-- Hongxu Su, Mingzhe Liu, **Jie Xu**, et al., "GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship," in *Proceedings of the IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2026)*, 2026, accepted.
- 
-- Xingyi Luo, Kaiping Xue, **Jie Xu**, et al., "[Blockchain-based Secure Data Aggregation and Distributed Power Dispatching for Microgrids](https://ieeexplore.ieee.org/abstract/document/9493753)," *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5268 - 5279, 2021.
+- **Jie Xu**, Sen Peng, Cong Wang, et al., "[PuffChain: Dynamic Scaling BFT-based PoS Blockchain with Optimal Throughput](https://ieeexplore.ieee.org/abstract/document/10428055)", *IEEE Transactions on Network Science and Engineering (TNSE)*, pp. 1-14, 2024, doi: 10.1109/TNSE.2024.3363880. 📁 [Code repo](https://github.com/senp98/PuffChain)
 
-- Hangyu Tian, Kaiping Xue, Xinyi Luo, Shaohua Li, **Jie Xu**, et al.,  "[Enabling Cross-chain Transactions: A Decentralized Cryptocurrency Exchange Protocol](https://ieeexplore.ieee.org/abstract/document/9478888)," *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 16, pp. 3928 - 3941, 2021.
+- **Jie Xu**, Qingyuan Xie, Sen Peng, et al., "[AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556)", *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, vol. 34, no. 6, pp. 1909-1922, 2023.
 
-## Networking and Data Engineering 
+- **Jie Xu**, Yingying Cheng, Cong Wang, et al., "[Occam: A Secure and Adaptive Scaling Protocol for Permissionless Blockchain](https://ieeexplore.ieee.org/abstract/document/9546407)", in *Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)*, 2021.
 
-- **Jie Xu**, Kaiping Xue, Shaohua Li,et al.,  "[Healthchain: A Blockchain-based Privacy Preserving Scheme for Large-scale Health Data](https://ieeexplore.ieee.org/abstract/document/8738810)," *IEEE Internet of Things Journal*, vol. 6, no. 5, pp. 8770-8781, 2019. 🏆**Highly Cited Papers**
-- **Jie Xu**, Kaiping Xue, Hangyu Tian, Jianan Hong, David S.L. Wei, and Peilin Hong, "[An Identity Management and Authentication Scheme Based on Redactable Blockchain for Mobile Networks](https://ieeexplore.ieee.org/abstract/document/9060994)," *IEEE Transactions on Vehicular Technology (TVT)*, vol. 69, no. 6, pp. 6688-6698, 2020.
-  
-- **Jie Xu**, Kaiping Xue, Qingyou Yang, and Peilin Hong, "[PSAP: Pseudonym-based Secure Authentication Protocol for NFC Applications](https://ieeexplore.ieee.org/abstract/document/8307349)," *IEEE Transactions on Consumer Electronics*, vol. 64, no. 1, pp. 83-91, 2018.
+- Hongxu Su, Mingzhe Liu, **Jie Xu**, et al., "GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship", in *Proceedings of the IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2026)*, 2026, accepted.
 
-- Qingyou Yang, Kaiping Xue, **Jie Xu**, et al.,  "[AnFRA: Anonymous and Fast Roaming Authentication for Space Information Network](https://ieeexplore.ieee.org/abstract/document/8409474)," *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 14, no. 2, pp. 486-497, 2019.
+- Xingyi Luo, Kaiping Xue, **Jie Xu**, et al., "[Blockchain-based Secure Data Aggregation and Distributed Power Dispatching for Microgrids](https://ieeexplore.ieee.org/abstract/document/9493753)", *IEEE Transactions on Smart Grid*, vol. 12, no. 6, pp. 5268-5279, 2021.
 
-- Peixuan He, Kaiping Xue, **Jie Xu**, et al.,  "[Attribute-based Accountable Access Control for Multimedia Content with In-network Caching](https://ieeexplore.ieee.org/abstract/document/8785010)," in *Proceedings of the 2019 IEEE International Conference on Multimedia and Expo (ICME 2019)*.
+- Hangyu Tian, Kaiping Xue, Xinyi Luo, Shaohua Li, **Jie Xu**, et al., "[Enabling Cross-chain Transactions: A Decentralized Cryptocurrency Exchange Protocol](https://ieeexplore.ieee.org/abstract/document/9478888)", *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 16, pp. 3928-3941, 2021.
 
-- Wei Meng, Kaiping Xue, **Jie Xu**, et al., "[Low-Latency Authentication Against Satellite Compromising for Space Information Network](https://ieeexplore.ieee.org/abstract/document/8567567)," in *Proceeding of the 15th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS 2018)*, IEEE, 2018, pp. 237-244. 🏆**Best Paper Runner Up**
+## Networking and Data Engineering
 
-## Book
--  **Jie Xu** and Xiaohua Jia, "[Machine Unlearning Theory and Applications in Networking](https://link.springer.com/book/9783032309778)", Springer Nature, 2026.
--  **Jie Xu** and Xiaohua Jia, "[Adaptive and Scalable Blockchain Systems](https://link.springer.com/book/10.1007/978-3-031-90811-8)", Springer Nature, 2025.
-  
+- **Jie Xu**, Kaiping Xue, Shaohua Li, et al., "[Healthchain: A Blockchain-based Privacy Preserving Scheme for Large-scale Health Data](https://ieeexplore.ieee.org/abstract/document/8738810)", *IEEE Internet of Things Journal*, vol. 6, no. 5, pp. 8770-8781, 2019. 🏆 **ESI Highly Cited Paper (Top 1%)**
+
+- **Jie Xu**, Kaiping Xue, Hangyu Tian, et al., "[An Identity Management and Authentication Scheme Based on Redactable Blockchain for Mobile Networks](https://ieeexplore.ieee.org/abstract/document/9060994)", *IEEE Transactions on Vehicular Technology (TVT)*, vol. 69, no. 6, pp. 6688-6698, 2020.
+
+- **Jie Xu**, Kaiping Xue, Qingyou Yang, et al., "[PSAP: Pseudonym-based Secure Authentication Protocol for NFC Applications](https://ieeexplore.ieee.org/abstract/document/8307349)", *IEEE Transactions on Consumer Electronics*, vol. 64, no. 1, pp. 83-91, 2018.
+
+- Qingyou Yang, Kaiping Xue, **Jie Xu**, et al., "[AnFRA: Anonymous and Fast Roaming Authentication for Space Information Network](https://ieeexplore.ieee.org/abstract/document/8409474)", *IEEE Transactions on Information Forensics and Security (TIFS)*, vol. 14, no. 2, pp. 486-497, 2019.
+
+- Peixuan He, Kaiping Xue, **Jie Xu**, et al., "[Attribute-based Accountable Access Control for Multimedia Content with In-network Caching](https://ieeexplore.ieee.org/abstract/document/8785010)", in *Proceedings of the 2019 IEEE International Conference on Multimedia and Expo (ICME 2019)*.
+
+- Wei Meng, Kaiping Xue, **Jie Xu**, et al., "[Low-Latency Authentication Against Satellite Compromising for Space Information Network](https://ieeexplore.ieee.org/abstract/document/8567567)", in *Proceedings of the 15th IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS 2018)*, IEEE, 2018, pp. 237-244. 🏆 **Best Paper Runner-Up Award**
+
+## Books
+
+- **Jie Xu** and Xiaohua Jia, "[Machine Unlearning: Theory and Applications in Networking](https://link.springer.com/book/9783032309778)", Springer Nature, 2026.
+- **Jie Xu** and Xiaohua Jia, "[Adaptive and Scalable Blockchain Systems](https://link.springer.com/book/10.1007/978-3-031-90811-8)", Springer Nature, 2025.
+
 ## Patent
-- [CN108282778A](https://patents.google.com/patent/CN108282778A/en), "Anonymous and Fast Roaming Authentication for Space Information Network"
 
+- [CN 108282778 B](https://patents.google.com/patent/CN108282778B/en), "Anonymous and Fast Roaming Authentication for Space Information Networks", granted 2020.
