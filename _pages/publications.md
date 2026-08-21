@@ -8,6 +8,8 @@ author_profile: true
 - **Jie Xu**, Zihan Wu, Yun Peng, Chun Yong Chong, Linghan Meng, Kui Liu and Xiaohua Jia, "No Isolated Evolution, No Blind Search: Memory-Guided Prompt Co-Evolution for Industrial Multi-Agent Vulnerability Detection", ASE 2026.
 
 - **Jie Xu**, Zihan Wu, Wenbo Pan, Jiao Yin, Yong-Feng Ge, Hua Wang,  Cong Wang and Xiaohua Jia, "[LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](https://openreview.net/pdf?id=g0Zm1TIrB1)", ICML 2026.
+
+- **Jie Xu**, Zihan Wu, Wenbo Pan, et al., "When Does Training Data Matter? Dynamic Data Attribution via Window-level Influence Estimation", EMNLP 2026.
   
 -  Zihan Wu, **Jie Xu**, Yun Peng, Chun Yong Chong and Xiaohua Jia,  "[MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution](https://aclanthology.org/2026.acl-long.391/)", ACL 2026.📁 [Code repo](https://github.com/wzh4464/Mulvul)
 
