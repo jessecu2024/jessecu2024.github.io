@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*\* denotes equal contribution.*
 
 ## Trustworthy AI
 
@@ -68,3 +67,6 @@ author_profile: true
 ## Patent
 
 - [CN 108282778 B](https://patents.google.com/patent/CN108282778B/en), "Anonymous and Fast Roaming Authentication for Space Information Networks", granted 2020.
+
+*\* denotes equal contribution.*
+
