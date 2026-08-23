@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jie Xu, a postdoc at City University of Hong Kong.
-- 👀 I’m interested in ensuring reliability and security across various fields, including distributed systems/blockchains, AI, and computer networks. 
+- 👋 Hi, I’m Victoria, a postdoc at City University of Hong Kong.
+- 👀 I’m interested in ensuring reliability and security across various fields, including distributed systems, AI, and computer networks. 
 - 🌱 I’m currently exploring the large model learning and unlearning, and how these concepts can revolutionize data processing and AI system security.
 - 💞️ I’m looking to collaborate on innovative projects that seek to enhance the security, efficiency, and reliability of decentralized systems and AI technologies.
 - 📫 Feel free to reach out to me at jessecu.cs@gmail.com for research collaborations, academic discussions, or just a friendly chat about the latest in tech.
